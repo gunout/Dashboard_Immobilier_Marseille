@@ -17,4 +17,16 @@
 
     streamlit run Dashboard.py
 
+# METHODE LOCAL ( FICHIER LOCAL )
+
+# TÉLÉCHARGEMENT " dvf_2024.csv " avec CURL
+
+    curl -L -o dvf_2024.csv.gz "https://files.data.gouv.fr/geo-dvf/latest/csv/2024/full.csv.gz"
+
+# RUN PROGRAM ( Marseille ) METHODE LOCAL
+
+    streamlit run Dash.py
+
+PS : pour la methode local s'assurer d'avoir le fichier : dvf_2024.csv dans le meme dossier que Dash.py
+
 By Gleaphe 2025 .
