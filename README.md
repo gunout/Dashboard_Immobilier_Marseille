@@ -1,4 +1,4 @@
-# Dashboard_Immobilier_Marseille
+# Dashboard_Immobilier_Marseille 2 METHODES ( HTTP ou LOCAL ) 
 🏖️ Dashboard Immobilier Marseille  ℹ️ Données réelles DVF 2024 pour la commune de Marseille (INSEE 13116), provenant de data.gouv.fr
 
 <img width="660" height="460" alt="Screenshot_2025-10-17_02-13-42" src="https://github.com/user-attachments/assets/5e205860-85fb-4554-8d96-0719ba4bb1c6" />
